@@ -1,1 +1,5 @@
+baseURL = 'https://beckej13820.github.io/static-hugo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
 theme = 'soho'
